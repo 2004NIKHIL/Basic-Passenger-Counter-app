@@ -20,7 +20,7 @@ This app allows you to keep track of how many people enter a place and save the 
 3. View all saved counts below the counter.  
 
 ## 🌐 Live Demo
-[Click here to view on GitHub Pages](https://your-username.github.io/your-repo-name)
+[Click here to view on GitHub Pages]((https://2004nikhil.github.io/Basic-Passenger-Counter-app/)
 
 ---
 
